@@ -1,5 +1,5 @@
-// Fig. 11.4: CreateCSVFile.java
-// Writing data to a CSV file using the Jackson open-source library.
+// Fig. 11.4: CreateJSONFile.java
+// Writing data to a JSON file using the Jackson open-source library.
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import java.nio.file.Path;
