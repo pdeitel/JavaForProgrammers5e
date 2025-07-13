@@ -3,7 +3,7 @@
 
 public class GenericMethodTest {
    public static void main(String[] args) {
-      // create arrays of Integer, Double and Character
+      // create arrays of Integers and Doubles
       Integer[] integerArray = {1, 2, 3, 4, 5, 6};
       Double[] doubleArray = {1.1, 2.2, 3.3, 4.4, 5.5, 6.6, 7.7};
 
