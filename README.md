@@ -1,4 +1,2 @@
-# JavaForProgrammers5e
-Code repository for Java for Programmers, 5/e.
-
-https://deitel.com/javafp5
+![AI高效应用：Java编程实践（第5版）- Java for Programmers with generative AI - 封面](https://github.com/user-attachments/assets/a60a6af8-3285-413b-ac4f-19a071a46607)
+本书预计于2026年初出版，持续更新中...
