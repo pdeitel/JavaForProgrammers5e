@@ -33,7 +33,7 @@ public class CreateTextFile {
          System.out.printf(
             "Text file created at: %s%n", filePath.toAbsolutePath());
       }
-      catch (IOException e) {
+      catch (Exception e) {
          System.err.printf(
             "Error writing text file: %s%n", e.getMessage());
       } 
@@ -56,3 +56,4 @@ public class CreateTextFile {
 * consequential damages in connection with, or arising out of, the       *
 * furnishing, performance, or use of these programs.                     *
 *************************************************************************/
+
